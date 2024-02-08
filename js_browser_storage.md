@@ -1,4 +1,4 @@
-# Learning Resources: Working with Cookies, localStorage, and sessionStorage in JavaScript
+# Working with Cookies, localStorage, and sessionStorage in JavaScript
 
 ## Understanding Cookies, localStorage, and sessionStorage
 - **Cookies:** Cookies are small pieces of data stored on the user's computer by the web browser. They are commonly used for session management, user authentication, and tracking user behavior.
