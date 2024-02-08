@@ -160,9 +160,6 @@ userInput = Number(userInput);
 console.log("Data type: " + typeof userInput);
 console.log(userInput + 3);
 ```
-
-Certainly! Here's the content with lists formatted using dashes:
-
 ### Defining and Calling Functions
 - Functions serve to store a specific sequence of commands outside the main program.
 - Allows them to be called at a different location by specifying the function name.
