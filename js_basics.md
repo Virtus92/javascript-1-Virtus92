@@ -10,7 +10,6 @@ The contents below should then serve only as a brief recap after the video.
 - Now considered one of the established web technologies
 - Due to its great popularity, its scope of application has expanded
 - For example, Node.js was released in 2009 => a platform for programming server applications with JavaScript
-- Later, development environments such as Electron or NW.js were introduced => making it possible to create desktop applications
 - Browser applications remain by far the most common area of application for JS
 - Runs within a sandbox, thus no access to functions of the operating system, hardware, or networks is possible
 
