@@ -1,9 +1,10 @@
+# JavaScript Basics:
 ### Please complete the Scrimba tutorial for JavaScript up to the "Chrome Extension" 
 
 Link: https://scrimba.com/learn/learnjavascript.
 The contents below should then serve only as a brief recap after the video.
 
-#### General
+### JavaScript in general:
 - Purpose: creating dynamic websites
 - Offers diverse ways to modify structure, layout, and content
 - Now considered one of the established web technologies
