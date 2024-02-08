@@ -20,7 +20,7 @@ Erstelle ein Memory-Spiel mit JavaScript. Die Bilder & das Thema kannst du dir s
 ------  
 
 **EN:**
-The goal of this competency check is to apply your beginner JavaScript knowledge, handle user-triggered events, and understand/apply the interaction between HTML, DOM (Document Object Model), and JavaScript.
+The goal of this check is to apply your beginner JavaScript knowledge, handle user-triggered events, and understand/apply the interaction between HTML, DOM (Document Object Model), and JavaScript.
 
 ## Instructions:
 - Set up the HTML structure with a grid of cards.
