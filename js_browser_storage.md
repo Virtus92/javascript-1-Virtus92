@@ -72,5 +72,4 @@ console.log('Username:', username);
 sessionStorage.removeItem('username');
 ```
 ## Conclusion
-Understanding how to work with cookies, localStorage, and sessionStorage in JavaScript is essential for client-side data storage and management. These resources provide a foundation for accessing and manipulating data stored on the client-side.
-```
+Understanding how to work with cookies, localStorage, and sessionStorage in JavaScript is essential for client-side data storage and management.
