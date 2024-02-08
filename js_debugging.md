@@ -4,7 +4,7 @@
 All modern browsers provide excellent developer tools.
 - Open the developer tools (in common browsers):
 - Right-click and select "Inspect", Keyboard shortcut: `Ctrl + Shift + I`
-![Debugger Screenshot](../img/js_debugging.png)
+![Debugger Screenshot](js_debugging.png)
 - Here's a helpful video on JavaScript debugging in Chrome:
     - [JavaScript Debugging in Chrome](https://www.youtube.com/watch?v=H0XScE08hy8)
 
