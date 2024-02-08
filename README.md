@@ -5,3 +5,6 @@
 1. [Browser Events](js_events.md)
 1. [JavaScript Debugging](js_debugging.md)
 1. [Browser Storage](js_browser_storage.md)
+
+## Kompetenzcheck - Memory Game:
+[Kompetenzcheck Memory Game](javascript_1_kompetenzcheck.md)
