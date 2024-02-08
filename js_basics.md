@@ -78,7 +78,7 @@ Not recommended for code readability
 */
 let myFirstVariable = 5, text = "Hello there", number = 10;
 ```
-#### Template Literals
+#### Template Literals - Writing strings in a fancy way 🎩
 ```javascript
 let favNumber = 7;
 let favColor = "blue";
