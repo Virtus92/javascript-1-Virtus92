@@ -1,5 +1,5 @@
 # Build an Invoice Generator according to the following template from Figma:
-**Design Template**
+**Design Template for the exercise**
 [Invoice Generator Figma Template](https://www.figma.com/file/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator?type=design&node-id=0-14&mode=design&t=cQEoUsHAZtwvAaqN-0)
 
 - The Invoice Generator should resemble the design provided in Figma - choose either the light or dark design (you don't need to implement both).
