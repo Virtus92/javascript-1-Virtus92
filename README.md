@@ -15,7 +15,7 @@
 [Kompetenzcheck Memory Game](javascript_1_kompetenzcheck.md)
 
 ## Zusatzmaterialien:
-[Video - Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8)\
-[w3 schools - JavaScript Reference](https://www.w3schools.com/js/default.asp)\
-[mdn - Modzilla JS Doku - JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\
-[Clean Code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Video - Debugging JavaScript](https://www.youtube.com/watch?v=H0XScE08hy8)\
+- [w3 schools - JavaScript Reference](https://www.w3schools.com/js/default.asp)\
+- [mdn - Modzilla JS Doku - JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\
+- [Clean Code in JS](https://github.com/ryanmcdermott/clean-code-javascript)
