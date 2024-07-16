@@ -9,7 +9,22 @@
 ## Exercises
 1. [Pangram Check Function](javascript_1_uebung_1.md)
 2. [Isogram Check Function](javascript_1_uebung_2.md)
-3. [Invoice Calculator](https://scrimba.com/learn/learnjavascript/module-3-final-solo-project-invoice-creator-cVbPpRhD)
+
+3. Invoice Calculator ([Link zum Figma File](https://www.figma.com/design/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator))
+- Invoice Calculator challenge
+  - Use HTML, CSS and JavaScript to create an Invoice Creator for a fictional client
+  - It displays the task and costs
+  - When clicking on the task it gets added to the tasklist
+  - The total amount updates as tasks are added to the list
+  - Invoice Creator soll aussehen wie im Figma File
+
+- Invoice Calculator requirements
+  - Array to hold requested tasks
+  - Buttons to add a task to array
+  - Display data from array; should update when the array changes
+  - Charge only once for each task
+  - Update total amount each time a task gets added
+  - Button to "send invoice" (reset)
 
 ## Kompetenzcheck - Memory Game:
 [Kompetenzcheck Memory Game](javascript_1_kompetenzcheck.md)
