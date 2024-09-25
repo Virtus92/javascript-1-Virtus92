@@ -338,4 +338,19 @@ function processArray(arr) {
 
 processArray(arr);
 ```
-These examples demonstrate the difference between using `var` and `let` for loop counters in terms of scope.
+#### Using Objects to Store Data
+We can use so-called 'Classless Objects' in JavaScript to store data. As the name implies we can create an object without using the class keyword.
+A widespread method is using 'Object Literals' (as shown in the example below):
+
+```javascript
+const person = {
+    name: 'Traudi',
+    age: 42,
+    address: 'SomeStreet 3',
+    greet: function() { console.log('Hello everyone!'); }                                                                
+}
+
+console.log(person);
+person.greet();
+```
+
