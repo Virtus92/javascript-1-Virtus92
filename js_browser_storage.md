@@ -57,7 +57,7 @@ sessionStorage provides a way to store and retrieve data on the client-side scop
 
 ### Resources:
 - [MDN Web Docs: Window.sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
-- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/js/js_webstorage.asp)
+- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/jsref/prop_win_sessionstorage.asp)
 
 ### Example:
 ```javascript
