@@ -30,8 +30,7 @@ let elementBySelector = document.querySelector('.mySelector');
 Creating references to DOM elements is crucial for efficient manipulation. Storing references allows you to avoid repeatedly searching for the same element.
 
 ### Resources:
-- [MDN Web Docs: Working with DOM elements](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Locating_DOM_elements_using_selectors)
-- [JavaScript.info: Searching: getElement*, querySelector*](https://javascript.info/searching-elements)
+- [Code Tutsplus - Get Elements by Tagname, Classname or ID](https://code.tutsplus.com/how-to-get-elements-by-class-id-or-tag-name-in-javascript--cms-106818t)
 
 ### Example:
 ```javascript
