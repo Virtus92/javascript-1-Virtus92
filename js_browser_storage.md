@@ -35,7 +35,7 @@ localStorage allows you to store and retrieve data on the client-side without an
 
 ### Resources:
 - [MDN Web Docs: Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
+- [W3Schools: JavaScript Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
 
 ### Example:
 ```javascript
@@ -57,7 +57,7 @@ sessionStorage provides a way to store and retrieve data on the client-side scop
 
 ### Resources:
 - [MDN Web Docs: Window.sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
-- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/jsref/prop_win_sessionstorage.asp)
+- [W3Schools: JavaScript Session Storage](https://www.w3schools.com/jsref/prop_win_sessionstorage.asp)
 
 ### Example:
 ```javascript
