@@ -35,7 +35,7 @@ localStorage allows you to store and retrieve data on the client-side without an
 
 ### Resources:
 - [MDN Web Docs: Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/js/js_webstorage.asp)
+- [W3Schools: JavaScript Web Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
 
 ### Example:
 ```javascript
