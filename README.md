@@ -10,8 +10,7 @@
 1. [Pangram Check Function](javascript_1_uebung_1.md)
 2. [Isogram Check Function](javascript_1_uebung_2.md)
 
-3. Invoice Calculator ([Link zum Figma File](https://www.figma.com/design/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator))
-   You can login to figma (or create an account) to you see more details about fonts and colors
+3. Invoice Calculator ([Link to Figma file](https://www.figma.com/design/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator)) - You can login to figma (or create an account) to you see more details about fonts and colors
 - Invoice Calculator challenge
   - Use HTML, CSS and JavaScript to create an Invoice Creator for a fictional client
   - The Calculator should look like the layout in figma (colors, fonts, ...), but you can choose on layout (normal mode or darkmode)
